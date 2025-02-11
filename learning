@@ -3,3 +3,16 @@ git status ---> get the status of which all files are modified and untracked
 git add -A ---> for adding the modified or new file to staging area
 git commit -m 'message'
 git----new messagee
+
+
+>git remote -v
+to get the name og the remote 
+
+>git pull remotename branch name
+to get the changes done in remote repirotory to local.
+
+>git branch
+commad for listing branches
+
+>git checkoutbranch
+command for checkout a branch  
