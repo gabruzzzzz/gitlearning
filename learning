@@ -16,3 +16,12 @@ commad for listing branches
 
 >git checkoutbranch
 command for checkout a branch  
+
+>git add -A
+to add the file
+
+>git commit -m 'message'
+to commit the changes made
+
+>git push (name) branch
+to push the codes from local to remote 
