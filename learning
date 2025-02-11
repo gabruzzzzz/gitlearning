@@ -1,0 +1,4 @@
+git init ----> initialize the folder
+git status ---> get the status of which all files are modified and untracked
+git add -A ---> for adding the modified or new file to staging area
+git commit -m 'message'
